@@ -1,0 +1,36 @@
+.template-home {
+    background-image: url(../public/img/background/backgroundhome.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    height: 100%;
+}
+
+.btn-transparent {
+    border: none;
+}
+
+.btn-transparent:hover {
+    background-color:rgba(255, 255, 255, 0.139);
+}
+
+.btn-transparent:active {
+    border: none;
+    outline-style:none;
+    box-shadow: none;
+}
+
+.form-w {
+    width: 500px;
+
+}
+
+.bg-transluce {
+    background-color: rgba(255, 255, 255, 0.247);
+    border-radius: 30px;
+}
+
+.article-height {
+    height: 520px;
+}
